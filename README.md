@@ -1,4 +1,5 @@
 # gitskills
 git skill learn
 
-merged branch
+merged a branch need be careful.
+
